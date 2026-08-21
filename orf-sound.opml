@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <opml version="2.0">
   <head>
-    <dateCreated>Fri, 21 Aug 2026 10:43:59 GMT</dateCreated>
-    <title>ORF Sound Podcasts (auto-extracted)</title>
+    <dateCreated>Fri, 21 Aug 2026 10:58:22 GMT</dateCreated>
+    <title>ORF Sound Podcasts</title>
   </head>
   <body>
-    <outline text="Hitradio Ö3 Podcasts">
+    <outline text="Hitradio Ö3">
       <outline title="Der Ö3-KI-Check" text="Der Ö3-KI-Check" type="rss" xmlUrl="https://podcast.orf.at/podcast/oe3/oe3_ki_check/oe3_ki_check.xml" htmlUrl="https://sound.orf.at/podcast/oe3/der-oe3-ki-check" />
       <outline title="Frühstück bei mir" text="Frühstück bei mir" type="rss" xmlUrl="https://podcast.orf.at/podcast/oe3/oe3_fruehstueck/oe3_fruehstueck.xml" htmlUrl="https://sound.orf.at/podcast/oe3/fruehstueck-bei-mir" />
       <outline title="Inside Washington" text="Inside Washington" type="rss" xmlUrl="https://podcast.orf.at/podcast/oe3/oe3_uswahl/oe3_uswahl.xml" htmlUrl="https://sound.orf.at/podcast/oe3/inside-washington" />
@@ -13,7 +13,7 @@
       <outline title="OFF Records - der Ö3-Wecker-Podcast" text="OFF Records - der Ö3-Wecker-Podcast" type="rss" xmlUrl="https://podcast.orf.at/podcast/oe3/oe3_offrecords/oe3_offrecords.xml" htmlUrl="https://sound.orf.at/podcast/oe3/off-records---der-oe3-wecker-podcast" />
       <outline title="Walek wandert" text="Walek wandert" type="rss" xmlUrl="https://podcast.orf.at/podcast/oe3/oe3_walek_wandert/oe3_walek_wandert.xml" htmlUrl="https://sound.orf.at/podcast/oe3/walek-wandert" />
     </outline>
-    <outline text="Ö1 Podcasts">
+    <outline text="Ö1">
       <outline title="#niemalsvergessen - Texte zum Fest der Freude" text="#niemalsvergessen - Texte zum Fest der Freude" type="rss" xmlUrl="https://podcast.orf.at/podcast/oe1/oe1_festderfreude/oe1_festderfreude.xml" htmlUrl="https://sound.orf.at/podcast/oe1/niemalsvergessen---texte-zum-fest-der-freude" />
       <outline title="100 Songs - Geschichte wird gemacht" text="100 Songs - Geschichte wird gemacht" type="rss" xmlUrl="https://podcast.orf.at/podcast/oe1/oe1_100songs/oe1_100songs.xml" htmlUrl="https://sound.orf.at/podcast/oe1/100-songs---geschichte-wird-gemacht" />
       <outline title="Africa Now" text="Africa Now" type="rss" xmlUrl="https://podcast.orf.at/podcast/oe1/oe1_afrikanow/oe1_afrikanow.xml" htmlUrl="https://sound.orf.at/podcast/oe1/africa-now" />
@@ -71,10 +71,10 @@
       <outline title="Warum Klassik?" text="Warum Klassik?" type="rss" xmlUrl="https://podcast.orf.at/podcast/oe1/oe1_warumklassik/oe1_warumklassik.xml" htmlUrl="https://sound.orf.at/podcast/oe1/warum-klassik" />
       <outline title="Wilma. Die unerklärlichen Kräfte eines Dienstmädchens" text="Wilma. Die unerklärlichen Kräfte eines Dienstmädchens" type="rss" xmlUrl="https://podcast.orf.at/podcast/oe1/oe1_wilma/oe1_wilma.xml" htmlUrl="https://sound.orf.at/podcast/oe1/wilma-die-unerklaerlichen-kraefte-eines-dienstmaedchens" />
     </outline>
-    <outline text="ORF Podcasts">
+    <outline text="ORF">
       <outline title="Einfach erklärt" text="Einfach erklärt" type="rss" xmlUrl="https://podcast.orf.at/podcast/orf/orf_einfacherklaert/orf_einfacherklaert.xml" htmlUrl="https://sound.orf.at/podcast/orf/einfach-erklaert" />
     </outline>
-    <outline text="Radio Burgenland Podcasts">
+    <outline text="Radio Burgenland">
       <outline title="Mahlzeit Burgenland - Kochen &amp; Tratschen" text="Mahlzeit Burgenland - Kochen &amp; Tratschen" type="rss" xmlUrl="https://podcast.orf.at/podcast/bgl/bgl_mahlzeit/bgl_mahlzeit.xml" htmlUrl="https://sound.orf.at/podcast/bgl/mahlzeit-burgenland---kochen--tratschen" />
       <outline title="ORF Češi Podcast" text="ORF Češi Podcast" type="rss" xmlUrl="https://podcast.orf.at/podcast/bgl/bgl_radiodratak/bgl_radiodratak.xml" htmlUrl="https://sound.orf.at/podcast/bgl/orf-ei-podcast" />
       <outline title="ORF Hrvati Podcast" text="ORF Hrvati Podcast" type="rss" xmlUrl="https://podcast.orf.at/podcast/bgl/bgl_hrvati/bgl_hrvati.xml" htmlUrl="https://sound.orf.at/podcast/bgl/orf-hrvati-podcast" />
@@ -84,7 +84,7 @@
       <outline title="Radio Burgenland Sprechstunde" text="Radio Burgenland Sprechstunde" type="rss" xmlUrl="https://podcast.orf.at/podcast/bgl/bgl_sprechstunde/bgl_sprechstunde.xml" htmlUrl="https://sound.orf.at/podcast/bgl/radio-burgenland-sprechstunde" />
       <outline title="Uschi hoch zu Beet" text="Uschi hoch zu Beet" type="rss" xmlUrl="https://podcast.orf.at/podcast/bgl/bgl_uhzb/bgl_uhzb.xml" htmlUrl="https://sound.orf.at/podcast/bgl/uschi-hoch-zu-beet" />
     </outline>
-    <outline text="Radio FM4 Podcasts">
+    <outline text="Radio FM4">
       <outline title="Bussi Bla Bla" text="Bussi Bla Bla" type="rss" xmlUrl="https://podcast.orf.at/podcast/fm4/fm4_bussiblabla/fm4_bussiblabla.xml" htmlUrl="https://sound.orf.at/podcast/fm4/bussi-bla-bla" />
       <outline title="Der Professor und der Wolf" text="Der Professor und der Wolf" type="rss" xmlUrl="https://podcast.orf.at/podcast/fm4/fm4_derprofessorundderwolf/fm4_derprofessorundderwolf.xml" htmlUrl="https://sound.orf.at/podcast/fm4/der-professor-und-der-wolf" />
       <outline title="FM4 Auf Laut" text="FM4 Auf Laut" type="rss" xmlUrl="https://podcast.orf.at/podcast/fm4/fm4_auflaut/fm4_auflaut.xml" htmlUrl="https://sound.orf.at/podcast/fm4/fm4-auf-laut" />
@@ -97,27 +97,27 @@
       <outline title="Geld verstehen - was dir niemand über Geld beigebracht hat" text="Geld verstehen - was dir niemand über Geld beigebracht hat" type="rss" xmlUrl="https://podcast.orf.at/podcast/fm4/fm4_planetstrange/fm4_planetstrange.xml" htmlUrl="https://sound.orf.at/podcast/fm4/geld-verstehen---was-dir-niemand-ueber-geld-beigebracht-hat" />
       <outline title="Generation Sound - der FM4 Musikpodcast" text="Generation Sound - der FM4 Musikpodcast" type="rss" xmlUrl="https://podcast.orf.at/podcast/fm4/fm4_musikpodcast/fm4_musikpodcast.xml" htmlUrl="https://sound.orf.at/podcast/fm4/generation-sound---der-fm4-musikpodcast" />
     </outline>
-    <outline text="Radio Niederösterreich Podcasts">
+    <outline text="Radio Niederösterreich">
       <outline title="100 Jahre Niederösterreich" text="100 Jahre Niederösterreich" type="rss" xmlUrl="https://podcast.orf.at/podcast/noe/noe_100jahre/noe_100jahre.xml" htmlUrl="https://sound.orf.at/podcast/noe/100-jahre-niederoesterreich" />
       <outline title="Nahaufnahme" text="Nahaufnahme" type="rss" xmlUrl="https://podcast.orf.at/podcast/noe/noe_nahaufnahme/noe_nahaufnahme.xml" htmlUrl="https://sound.orf.at/podcast/noe/nahaufnahme" />
       <outline title="Niederösterreich heute Gespräche" text="Niederösterreich heute Gespräche" type="rss" xmlUrl="https://podcast.orf.at/podcast/noe/noe_heute/noe_heute.xml" htmlUrl="https://sound.orf.at/podcast/noe/niederoesterreich-heute-gespraeche" />
       <outline title="NÖ Journale" text="NÖ Journale" type="rss" xmlUrl="https://podcast.orf.at/podcast/noe/noe_journale/noe_journale.xml" htmlUrl="https://sound.orf.at/podcast/noe/noe-journale" />
     </outline>
-    <outline text="Radio Oberösterreich Podcasts">
+    <outline text="Radio Oberösterreich">
       <outline title="Hoamatsound" text="Hoamatsound" type="rss" xmlUrl="https://podcast.orf.at/podcast/ooe/ooe_hoamatsound/ooe_hoamatsound.xml" htmlUrl="https://sound.orf.at/podcast/ooe/hoamatsound" />
     </outline>
-    <outline text="Radio Salzburg Podcasts">
+    <outline text="Radio Salzburg">
       <outline title="Radio Salzburg Blickwinkel" text="Radio Salzburg Blickwinkel" type="rss" xmlUrl="https://podcast.orf.at/podcast/sbg/sbg_radio_salzburg_blickwinkel/sbg_radio_salzburg_blickwinkel.xml" htmlUrl="https://sound.orf.at/podcast/sbg/radio-salzburg-blickwinkel" />
       <outline title="Radio Salzburg Cafe Podcast" text="Radio Salzburg Cafe Podcast" type="rss" xmlUrl="https://podcast.orf.at/podcast/sbg/sbg_radio_salzburg_cafe/sbg_radio_salzburg_cafe.xml" htmlUrl="https://sound.orf.at/podcast/sbg/radio-salzburg-cafe-podcast" />
     </outline>
-    <outline text="Radio Steiermark Podcasts">
+    <outline text="Radio Steiermark">
       <outline title="Die Radio Steiermark-Journale" text="Die Radio Steiermark-Journale" type="rss" xmlUrl="https://podcast.orf.at/podcast/stm/stm_journale/stm_journale.xml" htmlUrl="https://sound.orf.at/podcast/stm/die-radio-steiermark-journale" />
       <outline title="Die Radio Steiermark-Kinderreporter" text="Die Radio Steiermark-Kinderreporter" type="rss" xmlUrl="https://podcast.orf.at/podcast/stm/stm_kinderreporter/stm_kinderreporter.xml" htmlUrl="https://sound.orf.at/podcast/stm/die-radio-steiermark-kinderreporter" />
       <outline title="Die Woche in einfacher Sprache" text="Die Woche in einfacher Sprache" type="rss" xmlUrl="https://podcast.orf.at/podcast/stm/stm_einfachesprache/stm_einfachesprache.xml" htmlUrl="https://sound.orf.at/podcast/stm/die-woche-in-einfacher-sprache" />
       <outline title="Gedanken zur Zeit" text="Gedanken zur Zeit" type="rss" xmlUrl="https://podcast.orf.at/podcast/stm/stm_gedanken/stm_gedanken.xml" htmlUrl="https://sound.orf.at/podcast/stm/gedanken-zur-zeit" />
       <outline title="Gesund informiert" text="Gesund informiert" type="rss" xmlUrl="https://podcast.orf.at/podcast/stm/stm_gesundinformiert/stm_gesundinformiert.xml" htmlUrl="https://sound.orf.at/podcast/stm/gesund-informiert" />
     </outline>
-    <outline text="Radio Vorarlberg Podcasts">
+    <outline text="Radio Vorarlberg">
       <outline title="Ansichten" text="Ansichten" type="rss" xmlUrl="https://podcast.orf.at/podcast/vbg/vbg_ansichten/vbg_ansichten.xml" htmlUrl="https://sound.orf.at/podcast/vbg/ansichten" />
       <outline title="Focus" text="Focus" type="rss" xmlUrl="https://podcast.orf.at/podcast/vbg/vbg_focus/vbg_focus.xml" htmlUrl="https://sound.orf.at/podcast/vbg/focus" />
       <outline title="Gesprächskultur - Der ORF Vorarlberg Kulturpodcast" text="Gesprächskultur - Der ORF Vorarlberg Kulturpodcast" type="rss" xmlUrl="https://podcast.orf.at/podcast/vbg/vbg_kultur/vbg_kultur.xml" htmlUrl="https://sound.orf.at/podcast/vbg/gespraechskultur---der-orf-vorarlberg-kulturpodcast" />
@@ -127,13 +127,13 @@
       <outline title="Suti kocht" text="Suti kocht" type="rss" xmlUrl="https://podcast.orf.at/podcast/vbg/vbg_sutikocht/vbg_sutikocht.xml" htmlUrl="https://sound.orf.at/podcast/vbg/suti-kocht" />
       <outline title="Wir fragen - Der ORF Vorarlberg Interviewpodcast" text="Wir fragen - Der ORF Vorarlberg Interviewpodcast" type="rss" xmlUrl="https://podcast.orf.at/podcast/vbg/vbg_wirfragen/vbg_wirfragen.xml" htmlUrl="https://sound.orf.at/podcast/vbg/wir-fragen---der-orf-vorarlberg-interviewpodcast" />
     </outline>
-    <outline text="Radio Wien Podcasts">
+    <outline text="Radio Wien">
       <outline title="Radio Wien Pflanzentipp" text="Radio Wien Pflanzentipp" type="rss" xmlUrl="https://podcast.orf.at/podcast/wie/wie_pflanzentipp/wie_pflanzentipp.xml" htmlUrl="https://sound.orf.at/podcast/wie/radio-wien-pflanzentipp" />
       <outline title="Radio Wien Talk im Turm" text="Radio Wien Talk im Turm" type="rss" xmlUrl="https://podcast.orf.at/podcast/wie/wie_talk_im_turm/wie_talk_im_turm.xml" htmlUrl="https://sound.orf.at/podcast/wie/radio-wien-talk-im-turm" />
       <outline title="Radio Wien Wochenrückblick - Einfache Nachrichten" text="Radio Wien Wochenrückblick - Einfache Nachrichten" type="rss" xmlUrl="https://podcast.orf.at/podcast/wie/wie_einfache_nachrichten/wie_einfache_nachrichten.xml" htmlUrl="https://sound.orf.at/podcast/wie/radio-wien-wochenrueckblick---einfache-nachrichten" />
       <outline title="Stadtwandel" text="Stadtwandel" type="rss" xmlUrl="https://podcast.orf.at/podcast/wie/wie_stadtwandel/wie_stadtwandel.xml" htmlUrl="https://sound.orf.at/podcast/wie/stadtwandel" />
     </outline>
-    <outline text="TV Podcasts">
+    <outline text="TV">
       <outline title="Aktuell - Der Info-Podcast von ORF III" text="Aktuell - Der Info-Podcast von ORF III" type="rss" xmlUrl="https://podcast.orf.at/podcast/tv/tv_aktuell_orf3_podcast/tv_aktuell_orf3_podcast.xml" htmlUrl="https://sound.orf.at/podcast/tv/aktuell---der-info-podcast-von-orf-iii" />
       <outline title="Alles Adel" text="Alles Adel" type="rss" xmlUrl="https://podcast.orf.at/podcast/tv/tv_alles_adel/tv_alles_adel.xml" htmlUrl="https://sound.orf.at/podcast/tv/alles-adel" />
       <outline title="Erlebnis Bühne - Der Klassik-Podcast" text="Erlebnis Bühne - Der Klassik-Podcast" type="rss" xmlUrl="https://podcast.orf.at/podcast/tv/tv_erlebnisbuehne/tv_erlebnisbuehne.xml" htmlUrl="https://sound.orf.at/podcast/tv/erlebnis-buehne---der-klassik-podcast" />
